@@ -14,6 +14,8 @@ Built with modern web technologies focusing on performance, component architectu
 * Styling: Tailwind CSS
 
 ## Preview
+<img width="1508" height="765" alt="Screenshot 2026-03-08 at 11 13 02 PM" src="https://github.com/user-attachments/assets/e11380d1-9353-4dca-9ac7-9fb786d26202" />
+
 <img width="1512" height="786" alt="Screenshot 2026-03-08 at 11 11 17 PM" src="https://github.com/user-attachments/assets/90e1f3af-d2b8-44ee-b11f-569132696df2" />
 
 
