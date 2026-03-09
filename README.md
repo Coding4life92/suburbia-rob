@@ -18,5 +18,5 @@ Built with modern web technologies focusing on performance, component architectu
 
 <img width="1512" height="786" alt="Screenshot 2026-03-08 at 11 11 17 PM" src="https://github.com/user-attachments/assets/90e1f3af-d2b8-44ee-b11f-569132696df2" />
 
-
-<a href="https://suburbia-skateboarding-rob.netlify.app/" target="_blank">Demo</a>
+## Live Site
+<a href="https://suburbia-skateboarding-rob.netlify.app/" target="_blank">Live Site</a>
