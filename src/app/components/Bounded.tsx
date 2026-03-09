@@ -5,15 +5,17 @@ type BoundedProps = {
     as?: ElementType;
     className?: string;
     style?: CSSProperties;
-    children: ReactNode;
+    children?: ReactNode;
 };
 
 export function Bounded({
-    as: Comp = "section",
+    as = "section",
     className,
     children,
     ...restProps
 }: BoundedProps) {
+    const Comp = as as any;
+
     return (
         <Comp
             className={clsx(
