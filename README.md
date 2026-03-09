@@ -14,4 +14,4 @@ Built with modern web technologies focusing on performance, component architectu
 * Styling: Tailwind CSS
 
 ## Preview
-- [Demo](https://suburbia-skateboarding-rob.netlify.app/)
+<a href="https://suburbia-skateboarding-rob.netlify.app/" target="_blank">Demo</a>
